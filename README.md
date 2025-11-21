@@ -15,4 +15,3 @@ Conditional Formatting
 Drill-Down & Slice-and-Dice Analysis
 **Business Impact**
 This dashboard simulates a real retail analytics environment where large datasets can be easily explored to identify trends, monitor category performance, compare regions, and support strategic decision-making for retail teams.
-
